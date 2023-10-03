@@ -4,9 +4,6 @@
 }
 
 @media screen and (max-width: 480px){
-    ul{
-        flex-direction: row;
-    }
     main{
         display: flex;
         flex-direction: column;
